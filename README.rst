@@ -58,16 +58,15 @@ Her kullanım için labelImg klasörüne gidilip başlatılması gerekmektedir.
 Ek açıklama görselleştirmesi
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Mevcut etiket dosyasını görsellerle aynı klasöre kopyalayın. Etiketler dosyasının adı, resim dosyası adıyla aynı olmalıdır.
+1. Uygulamayı başlatın
 
-2. Dosya'ya tıklayın ve 'Dizini Aç'ı seçin, ardından görüntü klasörünü açın.
+2. Sol taraftaki Dosya'ya tıklayın ve 'Dizini Aç'ı seçin, ardından size gönderilen verilerin bulunduğu klasörü açın.
 
-3. Dosya Listesi'nde görseli seçin, o görseldeki tüm nesneler için sınırlayıcı kutu ve etiket görünecektir.
-
-(Etiketleri göstermek/gizlemek için Görünüm'de Etiketleri Görüntüle modunu seçin)
+3. Dosya Listesi'nde görseli seçin, o görseldeki tüm nesneler için etiket isimleri ve eğer işaretlendiyse kutucuklar görünecektir.
 
 
-Hotkeys
+
+Kısayollar
 ~~~~~~~
 
 +--------------------+----------------------------------------------+
