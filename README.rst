@@ -4,9 +4,6 @@
 Label Studio modern, çok modlu bir veri işaretleme aracıdır
 =======
 
-Tzutalin tarafından düzinelerce katkıda bulunanın yardımıyla oluşturulan popüler resim açıklama aracı LabelImg, artık aktif olarak geliştirilmiyor ve Label Studio topluluğunun bir parçası haline geldi. Görüntüler, metin, hiper metin, ses, video ve zaman serisi verileri için en esnek açık kaynaklı veri etiketleme aracı olan 'Label Studio <https://github.com/heartexlabs/label-studio>'__'ya göz atın. Başlamak için <https://labelstud.io/guide/install.html>`__ Label Studio'yu yükleyin ve `slack topluluğuna <https://label-studio.slack.com/>`__ katılın.
-
-
 
 `Demo videosu <https://youtu.be/p0nR2YsCY_U>`__
 
