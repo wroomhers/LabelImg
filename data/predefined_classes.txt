@@ -15,3 +15,5 @@ Yaya_Gecidi
 Yesil_Trafik_Isigi
 Sari_Trafik_Isigi
 Kirmizi_Trafik_Isigi
+Ilderden_Saga
+Ilerden_Sola
