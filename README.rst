@@ -6,7 +6,7 @@ Label Studio modern, çok modlu bir veri işaretleme aracıdır
 Burada paylaşılan her şey `HumanSignal'in repository'sinden <https://github.com/HumanSignal/labelImg>`__ çekilip düzenlenmiştir. Readme dosyası Türkçe'ye çevrilmiş ve kısaltmılmış, Ubuntu 20.04 için kurulum yönergesi düzenlenip geliştirilmiş ve data/predefined_classes.txt düzenlenmiştir. 
   
 
-`Demo videosu <https://youtu.be/dKS-fINMySA>`__
+`Kurulum videosu <https://youtu.be/dKS-fINMySA>`__
 
 Kurulum
 ------------------
